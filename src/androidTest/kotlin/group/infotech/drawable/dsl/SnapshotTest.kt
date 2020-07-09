@@ -19,7 +19,6 @@ class SnapshotTest {
 
     @Test
     fun redCircle() {
-
         val dsl =
             shapeDrawable {
                 shape = GradientDrawable.OVAL
